@@ -1,0 +1,21 @@
+1[Minutes: 393 -- Price Tier: $9 (100 - 500)]
+minute_total(393)
+minute_tierF(100)
+minute_tierL(500)
+minute_price(9)
+2[Texts: 318  -- Price Tier: $5 (100 - 1000)]
+text_total(318)
+text_tierF(100)
+text_tierL(1000)
+text_price(5)
+3[Data: 703 Megabytes -- Price Tier: $19 (500 - 1000)]
+data_total(703)
+data_tierF(500)
+data_tierL(1000)
+data_price(19)
+4[Current Bill: $39.00 and closes out on Aug 16 (11 days)]
+current_bill(39.00)
+5[Average Bill: $57.29]
+average_bill(57.29)
+6[Last Bill: $45.49]
+last_bill(45.49)
